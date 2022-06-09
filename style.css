@@ -1,0 +1,32 @@
+<html>
+
+<head>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Quicksand:wght@300;400;600&family=Roboto:wght@300&display=swap" rel="stylesheet">
+{
+    height: 100%;
+    }
+
+    body {
+    background-image: linear-gradient(#065a60, #4d194d);
+    font-family: 'Roboto', sans-serif;
+    }
+
+    #sobre {
+        font-family: 'Quicksand', sans-serif;
+        color:#ced4da;
+    }
+
+    h1 {
+        font-family: 'Kdam Thmor Pro', sans-serif;
+        color:#343a40;
+        }
+
+    #habilidades {
+        font-family: 'Kdam Thmor Pro', sans-serif;
+        font-size: 40px
+        color:#343a40;
+        }
+
